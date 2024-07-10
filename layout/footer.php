@@ -5,7 +5,7 @@
         </div>
         <div class="float-end">
             <p>Developed <span class="text-danger"><i class="bi bi-heart-fill icon-mid"></i></span>
-                by <a href="https://www.facebook.com/huyngudeochiuduoc">Phạm Gia Huy - PGH DEV</a></p>
+                by <a href="https://www.facebook.com/huyngudeochiuduoc">Nhóm 2</a></p>
         </div>
     </div>
 </footer>
